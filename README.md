@@ -35,6 +35,9 @@ npm install
 cd backend
 npm install
 ```
+- Database Configuration:
+  - Setup MongoDB cluster
+  - Add your connection string in `db.js`
 
 - Run the Application:
   - Start the backend server: `nodemon index.js` (inside the backend folder)
