@@ -23,16 +23,18 @@ A full-stack web application designed to streamline the creation, management, an
 - **File Handling:** Multer
  
 ## ⚙️ Installation & Setup
- 
-- Install Frontend Dependencies:
+
+- Setup Frontend and Install Dependencies:
 ```
 cd frontend
+npm create vite@latest
 npm install
 ```
 
-- Install Backend Dependencies:
+- Setup Backend and Install Dependencies:
 ```
 cd backend
+npm init
 npm install
 ```
 - Database Configuration:
