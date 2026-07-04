@@ -14,7 +14,7 @@ function Start() {
   };
 
   return (
-    <div className="flex flex-col items-center pt-10 bg-gray-50">
+    <div className="flex flex-col h-screen items-center pt-10 bg-gray-50">
       
       <h1 className="text-4xl font-bold text-gray-900 mb-8 text-center pb-40">
         Welcome to Baselios Event Manager
